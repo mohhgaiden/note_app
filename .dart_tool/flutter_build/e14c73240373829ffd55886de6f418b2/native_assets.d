@@ -1,0 +1,1 @@
+ C:\\Users\\mon\ pc\\Desktop\\SiriusNet\\note_app\\.dart_tool\\flutter_build\\e14c73240373829ffd55886de6f418b2\\native_assets.yaml: 
